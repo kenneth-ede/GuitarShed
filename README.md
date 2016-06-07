@@ -1,2 +1,5 @@
 # GuitarShed
-Resources for guitar.  Video lessons, sheet music, tabs, etc.
+
+Resources for guitar.  
+
+Videos, lessons, sheet music, tabs, etc.
